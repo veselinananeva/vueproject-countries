@@ -32,7 +32,7 @@ export default {
 #app {
   background-image: url('~@/assets/wall.jpg');
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100% 100%;
   
 }
 </style>
